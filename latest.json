@@ -1,1 +1,1 @@
-{"bundle":202611022241,"page":"v2.71","zip":"bundles/web-202611022241.zip","sha256":"a4289c53833e1580547a8e951cd0280a4c54a5fd214958ab83ccaf759cbccc06","size":1101633,"minApp":1,"notes":"v2.71: full-size QR centered, code in left column","published":"2026-11-02T22:41:22"}
+{"bundle":202611022244,"page":"v2.72","zip":"bundles/web-202611022244.zip","sha256":"8a1b8eb132b74062132657127d6beb479758f63e179e5b10a55777627613cc6c","size":1101879,"minApp":1,"notes":"v2.72: QR 12.5mm (byte mode H), code under QR","published":"2026-11-02T22:44:04"}
