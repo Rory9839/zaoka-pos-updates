@@ -1,1 +1,1 @@
-{"bundle":202611030848,"page":"v2.80","zip":"bundles/web-202611030848.zip","sha256":"12326d33d89aa7a65e717b4cfdd16e5acd1dfedb42759c05c868e99a7f976819","size":1103436,"minApp":1,"notes":"v2.80: QR 10.5mm centered, voucher note one line","published":"2026-11-03T08:48:43"}
+{"bundle":202611032248,"page":"v2.81","zip":"bundles/web-202611032248.zip","sha256":"5b61674ba840a201c57616e3e49ece1255132b117d3e1714d5230c62b26f253c","size":1104394,"minApp":1,"notes":"v2.81: delivery/pickup marks, phone in history, skip unchanged labels on revise","published":"2026-11-03T22:48:38"}
