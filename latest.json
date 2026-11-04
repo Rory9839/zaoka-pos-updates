@@ -1,1 +1,1 @@
-{"bundle":202611042150,"page":"v2.94","zip":"bundles/web-202611042150.zip","sha256":"ac311fc40523bde0faf8b661284129cbf4b6dab921527f039c6132ecd7977e81","size":1106115,"minApp":1,"notes":"v2.94: bag orders invert order number instead of bag box","published":"2026-11-04T21:50:50"}
+{"bundle":202611042155,"page":"v2.95","zip":"bundles/web-202611042155.zip","sha256":"9e8239d71b1485adff923294d65f3863dd2b8ac83936bed0929b1b230a7519da","size":1106606,"minApp":1,"notes":"v2.95: bag count inside inverted order number","published":"2026-11-04T21:55:14"}
