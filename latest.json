@@ -1,1 +1,1 @@
-{"bundle":202611050812,"page":"v3.06","zip":"bundles/web-202611050812.zip","sha256":"1f98d6e07fceb461550fd75d9a52dfbb4f7b4ce428222300e54fd8bfa658a2c8","size":1107488,"minApp":1,"notes":"v3.06: 移除手機看板列; 收據屬性對齊品名; 單號再小","published":"2026-11-05T08:12:09"}
+{"bundle":202611052006,"page":"v3.07","zip":"bundles/web-202611052006.zip","sha256":"03faffad5ff74f3dc200e2b79928c7e299ee149ff18565acba3a4490c1235f4e","size":1107728,"minApp":1,"notes":"v3.07: 出單機 USB 斷線時改為重試，不再出現 net.Socket 錯誤","published":"2026-11-05T20:07:00"}
