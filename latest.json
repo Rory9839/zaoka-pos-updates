@@ -1,1 +1,1 @@
-{"bundle":202611050805,"page":"v3.05","zip":"bundles/web-202611050805.zip","sha256":"e8d422d1bfb819f506b58a576b8edb1de718d8951f054a0d05d18d9edaf555c6","size":1107502,"minApp":1,"notes":"v3.05: 收據加列印時間、粗橫線、品項虛線與序號、單號縮小","published":"2026-11-05T08:05:26"}
+{"bundle":202611050812,"page":"v3.06","zip":"bundles/web-202611050812.zip","sha256":"1f98d6e07fceb461550fd75d9a52dfbb4f7b4ce428222300e54fd8bfa658a2c8","size":1107488,"minApp":1,"notes":"v3.06: 移除手機看板列; 收據屬性對齊品名; 單號再小","published":"2026-11-05T08:12:09"}
