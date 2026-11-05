@@ -1,1 +1,1 @@
-{"bundle":202611052006,"page":"v3.07","zip":"bundles/web-202611052006.zip","sha256":"03faffad5ff74f3dc200e2b79928c7e299ee149ff18565acba3a4490c1235f4e","size":1107728,"minApp":1,"notes":"v3.07: 出單機 USB 斷線時改為重試，不再出現 net.Socket 錯誤","published":"2026-11-05T20:07:00"}
+{"bundle":202611052009,"page":"v3.08","zip":"bundles/web-202611052009.zip","sha256":"b3556eec26801db3c46c1b497c9cce0c97b2c9400d596f6053505b430b363df4","size":1107772,"minApp":1,"notes":"v3.08: 收據時間去掉列印兩字、到秒、置中","published":"2026-11-05T20:09:37"}
