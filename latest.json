@@ -1,1 +1,1 @@
-{"bundle":202611061902,"page":"v3.38","zip":"bundles/web-202611061902.zip","sha256":"205c246ecb64641f9b89d159cb422b38bc11a9df8c34d819eae22630b958dcb2","size":1113147,"minApp":1,"notes":"點餐 v3.38：收據最下面去掉電話，時間置中","published":"2026-11-06T19:02:28"}
+{"bundle":202611070833,"page":"v3.39","zip":"bundles/web-202611070833.zip","sha256":"44c0fd6df8e704e5ca71f772fec5f5ec797f97d72b98340914dcc1ad1efc8d08","size":1114276,"minApp":1,"notes":"點餐 v3.39：送出訂單視窗提示 LINE 集點點數；店家設定移除頁尾標語開關","published":"2026-11-07T08:33:26"}
