@@ -1,1 +1,1 @@
-{"bundle":202611070844,"page":"v3.42","zip":"bundles/web-202611070844.zip","sha256":"1d053cdc213e8d9ad1cd2cf295ae4e23426942b91fcf6e25b5e2f800395fb33e","size":1114981,"minApp":1,"notes":"點餐 v3.42：修正提示 LINE 集點關掉後又自動打開","published":"2026-11-07T08:44:38"}
+{"bundle":202611070849,"page":"v3.43","zip":"bundles/web-202611070849.zip","sha256":"dda5f0a9d45813a2c64441a579a75bc5aeac885896e67471fa1e8fd2d6dacaaa","size":1116721,"minApp":1,"notes":"點餐 v3.43：手動折扣新增輸入折扣金額（要填原因與結帳人員）","published":"2026-11-07T08:49:19"}
